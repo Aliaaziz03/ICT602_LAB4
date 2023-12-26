@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "298304293992",
+    "firebase_url": "https://lab4-aliaalesya-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lab4-aliaalesya",
+    "storage_bucket": "lab4-aliaalesya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298304293992:android:bad322ce100aa894893fdd",
+        "android_client_info": {
+          "package_name": "com.example.lab4_aliaalesya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qaZVRxoxNT-gD20hz8PpzYwilx5fbLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
